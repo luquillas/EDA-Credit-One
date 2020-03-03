@@ -22,18 +22,13 @@ En el caso de los créditos con incumplimiento, de un total de 10069 créditos r
 Se adjunta tabla con los datos de los créditos agrupados por incumplimiento y 
 estableciendo como inferiores los montos otorgados menores o iguales a los 150,000
 
-      	| Inferior	| % total	| Superior| % total  |
-        -------------------------------------------|
-Pago	  | 9512	    | 31.71	  | 10419	  | 34.73    |
-No Pago	| 6888	    | 22.96	  | 3181	  | 10.60    |
-Total	  | 16400	    | 54.67		| 13600	  | 45.33	   |
+           	| Inferior  | % total	| Superior  | % total |
+            ----------------------------------------------|
+Pago	      | 9512      | 31.71	| 10419	| 34.73   |
+No Pago	| 6888	| 22.96	| 3181	| 10.60   |
+Total	      | 16400	| 54.67	| 13600	| 45.33   |
 
 
-MARRIAGE	0	1	2	3	All
-SEX					
-1	3	1774	2364	41	4182
-2	15	2814	2980	78	5887
-All	18	4588	5344	119	10069
 
 
 
