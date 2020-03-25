@@ -1,6 +1,3 @@
-# Repositorio01
-Ejercicios Python
-
 
 El trabajo consiste en el análisis del repositorio de datos "Adult" tomado de [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
 
@@ -20,4 +17,5 @@ capital-gain: Capital ganado. (Continuo)
 capital-loss: Capital perdido. (Continuo)
 hours-per-week: Horas de trabajo por semana (Continuo)
 native-country: País. (Categórico)
+
 Los datos fueron generados en el año 1994 y el objetivo es determinar si una persona gana más de $50,000.00 anuales.
