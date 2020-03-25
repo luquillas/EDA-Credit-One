@@ -21,6 +21,8 @@ En el caso de los créditos con incumplimiento, de un total de 10069 créditos r
 
 El código puede ser visto en: https://github.com/luquillas/Repositorio01/blob/master/CreditOne/EDA.ipynb
 
+[EDA](https://github.com/luquillas/Repositorio01/blob/master/CreditOne/EDA.ipynb)
+
 # Construcción, Evaluación y predicción
 
 Para el entrenamiento se utilizaron 4 algoritmos distintos:
