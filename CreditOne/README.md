@@ -19,9 +19,8 @@ créditos son menores o iguales a los 150,000, es decir un 54.67%.
 En el caso de los créditos con incumplimiento, de un total de 10069 créditos representando un 33.56% de la totalidad, 
 6888 son con montos inferior o igual a los 150,000, representando este un 22.96% del total de los créditos otorgados.
 
-El código puede ser visto en: https://github.com/luquillas/Repositorio01/blob/master/CreditOne/EDA.ipynb
+El código puede ser visto en: [EDA](https://github.com/luquillas/Repositorio01/blob/master/CreditOne/EDA.ipynb)
 
-[EDA](https://github.com/luquillas/Repositorio01/blob/master/CreditOne/EDA.ipynb)
 
 # Construcción, Evaluación y predicción
 
@@ -42,4 +41,4 @@ Los conjuntos de datos se dividieron en un 75/25 para el entrenamiento y se entr
 Se realiza optimización sobre los dos métodos con mejor rendimiento, ajustando los parametros C y gamma para el SVC y var_smoothing y priors para el algoritmo GaussianNB.
 El mejor resultado es obtenido con SVC utilizando gamma='auto' y C=3.3, para un nivel de precisión de un 81.34%.
 
-El código con sus salidas puede ser visto en: https://github.com/luquillas/Repositorio01/blob/master/CreditOne/BuildandEvaluateModels.ipynb
+El código con sus salidas puede ser visto en: [Entrenamiento, Evaluación y Predicción](https://github.com/luquillas/Repositorio01/blob/master/CreditOne/BuildandEvaluateModels.ipynb)
